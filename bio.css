@@ -1,0 +1,28 @@
+h1 {
+  color: : orange;
+  text-align: center;
+  line-height: 500px;
+}
+h1 {
+	font-family: monospace;
+}
+body {
+  background-color: orange;
+}
+h2 {
+  color: : orange;
+  text-align: right;
+  line-height: 500px;
+}
+h3{
+	font-family: monospace;
+}
+div.a {
+	font-size: 15px;
+}
+.gothic{
+	font-family: 'DotGothic16', sans-serif;
+	font-size: 30px;
+	color: red;
+}
+
